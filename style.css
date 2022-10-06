@@ -61,64 +61,9 @@ body{
   bottom: -19px;
   margin-left: -31px;
 }
-.news-block{
-  margin-top: 50px;
-}
-.box-test {
-  height: 40px;
-  width: 40px;
-  margin-top: 40px;
-  margin-left: 1px;
-}
-.box-test-text{
-  height: 38px;
-  margin-left: 5px;
-}
-.gorod {
-  margin-top: 174px;
-  width: 457px;
-  margin-left: -40px;
-}
-.mer {
-  width: 50px;
-  margin-top: 33px;
-  margin-left: 33px;
-}
-.mer-text {
-  position: absolute;
-  font-family: Onest Bold;
-  font-style: normal;
-  font-size: 19px;
-  color: white;
-  margin-top: -51px;
-  margin-left: 96px;
-}
-.mer-text1 {
-  position: absolute;
-  font-family: Onest;
-  font-style: normal;
-  font-size: 12px;
-  color: #aaaaaa5e;
-  margin-top: -25px;
-  margin-left: 96px;
-}
-.mer-logo {
-  height: 17px;
-  margin-bottom: 26px;
-  margin-left: 175px;
-}
 .mimg {
   margin-left: -35px;
   margin-top: 280px;
-}
-.mbtn {
-  position: absolute;
-  width: 336px;
-  height: 80px;
-  left: 29px;
-  top: 358px;
-  background: #0C8AFF;
-  border-radius: 10px;
 }
 .mbtext {
   position: absolute;
@@ -141,19 +86,17 @@ body{
   height: 2.2rem;
   padding: 1.4rem 1.7rem 0 1.6rem;
   z-index: 2;
-  margin-left: -100px;
+  margin-left: -300px;
 }
 .bl1-h2 {
   font-family: 'Raleway';
-  margin-left: -299px;
+  margin-left: -99px;
   margin-top: 680px;
   width: 163px;
 }
 .bl1-h1 {
   position: absolute;
-  width: 101px;
-  height: 18px;
-  left: -274px;
+  left: -75px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -164,9 +107,7 @@ body{
 }
 .bl1-h1-1 {
   position: absolute;
-  width: 11px;
-  height: 18px;
-  left: -10px;
+  left: 190px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -179,7 +120,7 @@ body{
   position: absolute;
   width: 157px;
   height: 19px;
-  left: -168px;
+  left: 31px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -192,24 +133,22 @@ body{
 }
 .kart-1 {
   position: absolute;
-  left: -274px;
+  left: -74px;
   top: 442px;
 }
 .kart-2 {
   position: absolute;
-  left: -158px;
+  left: 42px;
   top: 442px;
 }
 .kart-3 {
   position: absolute;
-  left: -42px;
+  left: 158px;
   top: 442px;
 }
 .txt-kart-1 {
   position: absolute;
-  width: 104px;
-  height: 46px;
-  left: -275px;
+  left: -74px;
   top: 545px;
   font-family: 'Raleway';
   font-style: normal;
@@ -220,9 +159,7 @@ body{
 }
 .txt-kart-2 {
   position: absolute;
-  width: 104px;
-  height: 46px;
-  left: -159px;
+  left: 41px;
   top: 545px;
   font-family: 'Raleway';
   font-style: normal;
@@ -233,9 +170,7 @@ body{
 }
 .txt-kart-3 {
   position: absolute;
-  width: 104px;
-  height: 46px;
-  left: -42px;
+  left: 157px;
   top: 545px;
   font-family: 'Raleway';
   font-style: normal;
