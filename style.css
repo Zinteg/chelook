@@ -107,3 +107,140 @@ body{
   margin-bottom: 26px;
   margin-left: 175px;
 }
+.mimg {
+  margin-left: -35px;
+  margin-top: 280px;
+}
+.mbtn {
+  position: absolute;
+  width: 336px;
+  height: 80px;
+  left: 29px;
+  top: 358px;
+  background: #0C8AFF;
+  border-radius: 10px;
+}
+.mbtext {
+  position: absolute;
+  font-family: 'Raleway Bold';
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  margin-top: 26px;
+  margin-left: 78px;
+  height: 20px;
+}
+.block-1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-style: normal;
+  font-size: 8px;
+  line-height: 21px;
+  color: #5F5F5F;
+  height: 2.2rem;
+  padding: 1.4rem 1.7rem 0 1.6rem;
+  z-index: 2;
+  margin-left: -100px;
+}
+.bl1-h2 {
+  font-family: 'Raleway';
+  margin-left: -299px;
+  margin-top: 680px;
+  width: 163px;
+}
+.bl1-h1 {
+  position: absolute;
+  width: 101px;
+  height: 18px;
+  left: -274px;
+  top: 387px;
+  font-family: 'Raleway Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.bl1-h1-1 {
+  position: absolute;
+  width: 11px;
+  height: 18px;
+  left: -10px;
+  top: 387px;
+  font-family: 'Raleway Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.bl1-h1-2 {
+  position: absolute;
+  width: 157px;
+  height: 19px;
+  left: -168px;
+  top: 387px;
+  font-family: 'Raleway Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  display: inline;
+  border-bottom: 2px solid #0c8aff;
+}
+.kart-1 {
+  position: absolute;
+  left: -274px;
+  top: 442px;
+}
+.kart-2 {
+  position: absolute;
+  left: -158px;
+  top: 442px;
+}
+.kart-3 {
+  position: absolute;
+  left: -42px;
+  top: 442px;
+}
+.txt-kart-1 {
+  position: absolute;
+  width: 104px;
+  height: 46px;
+  left: -275px;
+  top: 545px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 11px;
+  color: #FFFFFF;
+}
+.txt-kart-2 {
+  position: absolute;
+  width: 104px;
+  height: 46px;
+  left: -159px;
+  top: 545px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.txt-kart-3 {
+  position: absolute;
+  width: 104px;
+  height: 46px;
+  left: -42px;
+  top: 545px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 11px;
+  color: #FFFFFF;
+}
