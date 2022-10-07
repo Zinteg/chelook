@@ -92,22 +92,22 @@ body{
   font-family: 'Raleway';
   margin-left: -99px;
   margin-top: 680px;
-  width: 198px;
+  width: 163px;
 }
-.bl1-h1-1 {
+.bl1-h1 {
   position: absolute;
-  left: 183px;
+  left: -75px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 18px;
   color: #FFFFFF;
 }
 .bl1-h1-1 {
   position: absolute;
-  left: 183px;
+  left: 190px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -120,7 +120,7 @@ body{
   position: absolute;
   width: 156px;
   height: 19px;
-  left: 27px;
+  left: 31px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -178,4 +178,8 @@ body{
   font-size: 11px;
   line-height: 11px;
   color: #FFFFFF;
+}
+.qrcode{
+  margin-top: 1450px;
+  margin-left: 84px;
 }
