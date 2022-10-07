@@ -101,13 +101,13 @@ body{
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 18px;
   color: #FFFFFF;
 }
 .bl1-h1-1 {
   position: absolute;
-  left: 190px;
+  left: 173px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -118,14 +118,14 @@ body{
 }
 .bl1-h1-2 {
   position: absolute;
-  width: 156px;
-  height: 19px;
-  left: 31px;
+  width: 150px;
+  height: 18px;
+  left: 24px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 18px;
   color: #FFFFFF;
   display: inline;
