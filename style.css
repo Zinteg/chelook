@@ -92,7 +92,7 @@ body{
   font-family: 'Raleway';
   margin-left: -99px;
   margin-top: 680px;
-  width: 163px;
+  width: 170px;
 }
 .bl1-h1 {
   position: absolute;
@@ -105,22 +105,11 @@ body{
   line-height: 18px;
   color: #FFFFFF;
 }
-.bl1-h1-1 {
-  position: absolute;
-  left: 191px;
-  top: 387px;
-  font-family: 'Raleway Bold';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 18px;
-  color: #FFFFFF;
-}
 .bl1-h1-2 {
   position: absolute;
-  width: 150px;
-  height: 18px;
-  left: 31px;
+  width: 162px;
+  height: auto;
+  left: 27px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
