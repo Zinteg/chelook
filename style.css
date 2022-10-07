@@ -94,20 +94,20 @@ body{
   margin-top: 680px;
   width: 198px;
 }
-.bl1-h1 {
+.bl1-h1-1 {
   position: absolute;
-  left: -75px;
+  left: 183px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 18px;
   color: #FFFFFF;
 }
 .bl1-h1-1 {
   position: absolute;
-  left: 190px;
+  left: 183px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
@@ -118,9 +118,9 @@ body{
 }
 .bl1-h1-2 {
   position: absolute;
-  width: 159px;
-  height: 22px;
-  left: 31px;
+  width: 156px;
+  height: 19px;
+  left: 27px;
   top: 387px;
   font-family: 'Raleway Bold';
   font-style: normal;
