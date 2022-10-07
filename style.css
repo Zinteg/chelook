@@ -81,13 +81,13 @@ body{
 .bl1-h2 {
   font-family: 'Raleway';
   margin-left: -99px;
-  margin-top: 680px;
+  margin-top: 611px;
   width: 170px;
 }
 .bl1-h1 {
   position: absolute;
   left: -75px;
-  top: 387px;
+  top: 348px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
@@ -97,10 +97,10 @@ body{
 }
 .bl1-h1-2 {
   position: absolute;
-  width: 154px;
+  width: 153px;
   height: 19px;
   left: 25px;
-  top: 387px;
+  top: 348px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
@@ -113,22 +113,22 @@ body{
 .kart-1 {
   position: absolute;
   left: -74px;
-  top: 442px;
+  top: 400px;
 }
 .kart-2 {
   position: absolute;
   left: 42px;
-  top: 442px;
+  top: 400px;
 }
 .kart-3 {
   position: absolute;
   left: 158px;
-  top: 442px;
+  top: 400px;
 }
 .txt-kart-1 {
   position: absolute;
   left: -74px;
-  top: 545px;
+  top: 506px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
@@ -139,7 +139,7 @@ body{
 .txt-kart-2 {
   position: absolute;
   left: 41px;
-  top: 545px;
+  top: 506px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
@@ -150,11 +150,12 @@ body{
 .txt-kart-3 {
   position: absolute;
   left: 157px;
-  top: 545px;
+  top: 506px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
   font-size: 11px;
-  line-height: 11px;
+  line-height: 15px;
   color: #FFFFFF;
+  width: 105px;
 }
