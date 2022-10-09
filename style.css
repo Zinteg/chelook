@@ -87,7 +87,7 @@ body{
 .bl1-h1 {
   position: absolute;
   left: -75px;
-  top: 348px;
+  top: 345px;
   font-family: 'Raleway Bold';
   font-style: normal;
   font-weight: 700;
@@ -99,22 +99,22 @@ body{
 .kart-1 {
   position: absolute;
   left: -74px;
-  top: 400px;
+  top: 385px;
 }
 .kart-2 {
   position: absolute;
   left: 42px;
-  top: 400px;
+  top: 385px;
 }
 .kart-3 {
   position: absolute;
   left: 158px;
-  top: 400px;
+  top: 385px;
 }
 .txt-kart-1 {
   position: absolute;
   left: -74px;
-  top: 506px;
+  top: 487px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
@@ -125,7 +125,7 @@ body{
 .txt-kart-2 {
   position: absolute;
   left: 41px;
-  top: 506px;
+  top: 487px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
@@ -136,7 +136,7 @@ body{
 .txt-kart-3 {
   position: absolute;
   left: 157px;
-  top: 506px;
+  top: 487px;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
